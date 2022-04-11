@@ -8,9 +8,15 @@ For this assignment you will need to upload your resume and provide links to you
  
 ### GitHub
 Provide a link to your GitHub account here.
+
+https://github.com/mpbelz
+
+https://github.com/mpbelz/liftoff-assignments
  
 ### LinkedIn
 Provide a link to your LinkedIn account here.
+
+https://www.linkedin.com/in/matthew-belz-911b51174/
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
