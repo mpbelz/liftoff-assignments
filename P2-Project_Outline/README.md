@@ -7,12 +7,42 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+
+We plan to create an app in which a user can add ingredients to a grocery list, those ingredients would be added 
+as inventory into a database, then the user could use those items to create meals/recipes. We will break those 
+ingredients down by protein, carb, veg, etc. Once items are used, they are removed from the current inventory, which 
+will also let the user know when items need to be replenished. Ideally, the user will never be without the full 
+ingredients to make a meal, they will also know when it's time to go grocery shopping, and what items need to be 
+purchased. There is nothing worse than having to make a grocery list, or deciding what's for dinner!
+
 ### Features
-Include Features here
+
+<ul>
+<li><b>User Login:</b> Users will be able to create an account and log in to the application, accessing their profile. 
+They will be able to track their available ingredients, as well as possible meal prep combinations.</li>
+<li><b>Search:</b> Users will be able to search available ingredients.</li>
+<li><b>Add/Edit/Remove:</b> Users will be able to add/edit/remove ingredients from the inventory.</li>
+<li><b>Ingredient Combinations:</b> App will track how many times an ingredient combination was used in a meal.</li>
+</ul>
+
 ### Technologies
-Include Technologies here
+
+<ul>
+<li>Java</li>
+<li>Spring Boot</li>
+<li>Hibernate</li>
+<li>Thymeleaf Templates</li>
+<li>Bootstrap</li>
+<li>HTML</li>
+<li>CSS</li>
+</ul>
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+
+I will have to learn more about the account creation process, as well as login/validation. I will also look into Spring 
+security. In addition, I want to learn more about how all of these different frameworks work together, I'm still trying 
+to grasp these concepts.
+
 ### Project Tracker
-Link to your Trello board here
+
+https://trello.com/b/fofejUb8/liftoff-matt-belz
