@@ -8,12 +8,12 @@ For this assignment, you will submit a high-level outline of your project. This 
 
 ### Overview
 
-We plan to create an app in which a user can add ingredients to a grocery list, those ingredients would be added 
-as inventory into a database, then the user could use those items to create meals/recipes. We will break those 
-ingredients down by protein, carb, veg, etc. Once items are used, they are removed from the current inventory, which 
-will also let the user know when items need to be replenished. Ideally, the user will never be without the full 
-ingredients to make a meal, they will also know when it's time to go grocery shopping, and what items need to be 
-purchased. There is nothing worse than having to make a grocery list, or deciding what's for dinner!
+We plan to create an app in which a user can add ingredients to a grocery list, those ingredients are then added 
+as inventory into a database, and can be used to create meals/recipes. We will break those ingredients down by protein, 
+carb, veg, etc. Once items are used, they are removed from the current inventory, which will also let the user know 
+when items need to be replenished. Ideally, the user will never be without the full ingredients to make a meal, they 
+will also know when it's time to go grocery shopping, and what items need to be purchased. There is nothing worse than 
+having to make a grocery list, or deciding what's for dinner!
 
 ### Features
 
@@ -41,7 +41,8 @@ They will be able to track their available ingredients, as well as possible meal
 
 I will have to learn more about the account creation process, as well as login/validation. I will also look into Spring 
 security. In addition, I want to learn more about how all of these different frameworks work together, I'm still trying 
-to grasp these concepts.
+to grasp these concepts. I will continue to expand my knowledge on concepts that we have already covered in this class 
+as well.
 
 ### Project Tracker
 
