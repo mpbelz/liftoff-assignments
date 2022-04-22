@@ -8,12 +8,14 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+https://github.com/mpbelz/liftoff-assignments/tree/master/P3-Project_Planning
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+https://trello.com/b/lKqCZRIi/kale-yeah
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+https://github.com/April-2022-LC-LiftOff/kale-yeah-rest
+
+https://github.com/April-2022-LC-LiftOff/kale-yeah-web
